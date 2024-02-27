@@ -1,0 +1,88 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #010314; /* Dark Purple */
+    color: #FFFFFF; /* White */
+}
+
+/* Header Styles */
+header {
+    background-color: #592DD1; /* Bright Purple */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #010314; /* Dark Purple */
+    padding: 10px 0;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFFFFF; /* White */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FC93AD; /* Pink */
+}
+
+/* Section Styles */
+section {
+    padding: 40px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #95A1F9; /* Purple */
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1F1F1F; /* Black */
+}
+
+/* Additional Styling */
+/* Customize as needed for your specific content */
+
+/* Example: Project Cards */
+.project-card {
+    background-color: #FEFDFB; /* Light Gray */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Example: Contact Form */
+.contact-form {
+    background-color: #FC93AD; /* Pink */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Feel free to adjust these styles based on your preferences and content. Happy designing! */
