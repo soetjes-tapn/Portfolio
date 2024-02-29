@@ -1,3 +1,3 @@
-import 'gradient.scss'
+import './style.scss'
 
 
